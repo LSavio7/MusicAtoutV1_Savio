@@ -1,0 +1,85 @@
+﻿{
+   "CodeGenerationMode": 4,
+   "ContextClassName": "MusicAtout_LSAVIOContext",
+   "ContextNamespace": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "MusicAtoutV1_Savio",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[ACCUEILLIR]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[BATIMENT]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[COMPOSITEUR]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[NATIONALITE]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[OEUVRE]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SALLE]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[STYLE]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TYPEOEUVRE]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[UTILISATEUR]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[VILLE]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": null,
+   "UncountableWords": null,
+   "UseAsyncStoredProcedureCalls": true,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDatabaseNamesForRoutines": true,
+   "UseDateOnlyTimeOnly": true,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseInternalAccessModifiersForSprocsAndFunctions": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false,
+   "UseT4Split": false
+}
